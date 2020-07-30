@@ -1,6 +1,6 @@
 ### Hi 🤙
 
-Hi my name is **Marc Stammerjohann** and I'm a full stack software developer specialized in creating cross-platform apps for Android, iOS, Desktop and Web.
+my name is **Marc Stammerjohann** and I'm a full stack software developer specialized in creating cross-platform apps for Android, iOS, Desktop and Web.
 I love [open source](https://github.com/marcjulian) and I [write](https://notiz.dev) about it. 
 
 <!--
