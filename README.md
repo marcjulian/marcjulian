@@ -1,7 +1,6 @@
-### Hi 🤙
+### Hey, I am Marc 🤙
 
-my name is **Marc Stammerjohann** and I'm a full stack software developer specialized in creating cross-platform apps for Android, iOS, Desktop and Web.
-I love [open source](https://github.com/marcjulian) and I [write](https://notiz.dev) about it. 
+I'm a full stack software developer from Germany build apps for the Web and Mobile. I love [open source](https://github.com/marcjulian) and I [write](https://notiz.dev) about it. 
 
 <!--
 **marcjulian/marcjulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
