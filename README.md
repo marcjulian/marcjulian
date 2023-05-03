@@ -9,14 +9,16 @@ I even got the chance hosting video workshops about NestJS and Prisma:
 
 ### ⌨️ Tech Stack 
 
-My main tech stack is currently:
+I love using the following tech stack as full stack developer.
 
-❤️ [Angular](https://angular.io/)  
-🚀 [Scully](https://scully.io/)  
-🎨 [Tailwind CSS](https://tailwindcss.com/)  
-😸 [NestJS](https://nestjs.com/)  
-📖 [Prisma](https://www.prisma.io/)  
-🔌 [Capacitor](https://capacitorjs.com/)
+<p>
+  <a href="https://angular.io/">❤️ Angular</a>
+  <a href="https://astro.build/">🚀 Astro</a>
+  <a href="https://tailwindcss.com/">🎨 Tailwind CSS</a>
+  <a href="https://nestjs.com/">😸 NestJS</a>
+  <a href="https://prisma.io/">📖 Prisma</a>
+  <a href="https://capacitorjs.com/">🔌 Capacitor</a>
+</p>
 
 ### ❤️ Open Source
 
