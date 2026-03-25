@@ -6,7 +6,7 @@ I'm a freelance developer and open sourcerer from Germany. I build apps and APIs
 
 * **[spartan/ui](https://github.com/spartan-ng/spartan) (Core Team):** Author of the Autocomplete, Combobox, Date-Picker, and Input OTP components.
 * **[nestjs-prisma](https://github.com/notiz-dev/nestjs-prisma):** Creator of the NestJS library and schematics for Prisma integration.
-* **[elbe-ui](https://github.com/notiz-dev/elbe-ui):** Creator of the Elbe UI component library.
+* **[elbe-ui](https://github.com/marcjulian/elbe-ui):** Creator of the Elbe UI component library.
 * **[ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl):** Contributor to the MapLibre wrapper for Angular.
 
 ### 🚀 Side Projects
