@@ -9,7 +9,7 @@ I'm a freelance developer and open sourcerer from Germany. I build apps and APIs
 * **[elbe-ui](https://github.com/marcjulian/elbe-ui):** Creator of the Elbe UI component library.
 * **[ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl):** Contributor to the MapLibre wrapper for Angular.
 
-### 🚀 Side Projects
+### 🚀 Projects
 
 * **[paddlingspots.com](https://paddlingspots.com):** A community-driven platform to discover and share the best places to go paddling.
 
